@@ -1,0 +1,26 @@
+{
+  "name": "teste3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "CI",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzannm/ci_teste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suzannm/ci_teste/issues"
+  },
+  "homepage": "https://github.com/suzannm/ci_teste#readme"
+}
